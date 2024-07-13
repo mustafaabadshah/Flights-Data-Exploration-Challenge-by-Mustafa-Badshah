@@ -46,3 +46,11 @@ bash
 Copy code
 pip install pandas numpy matplotlib seaborn scikit-learn
 Open and run flight_delay_analysis.ipynb in Jupyter Notebook or Jupyter Lab to explore the analysis step-by-step.
+Install dependencies (if not already installed):
+
+bash
+Copy code
+
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+Open and run flight_delay_analysis.ipynb in Jupyter Notebook or Jupyter Lab to explore the analysis step-by-step.
