@@ -1,7 +1,9 @@
 # Flights-Data-Exploration-Challenge-by-Mustafa-Badshah
 In this challenge, you'll explore a real-world dataset containing flights data from the US Department of Transportation.
 Steps Covered in This Project:
-# Data Loading and Preparation:
+
+Steps Covered in This Project:
+Data Loading and Preparation:
 
 Loaded flight data from a CSV file.
 Separated data into features (X) and target (Y).
