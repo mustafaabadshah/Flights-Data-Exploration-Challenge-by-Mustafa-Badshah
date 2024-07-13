@@ -1,6 +1,5 @@
-# Flights-Data-Exploration-Challenge-by-Mustafa-Badshah
-In this challenge, you'll explore a real-world dataset containing flights data from the US Department of Transportation.
-Steps Covered in This Project:
+Flight Delay Analysis
+This project involves analyzing US domestic flight data from 2013 to understand departure and arrival delays.
 
 Steps Covered in This Project:
 Data Loading and Preparation:
@@ -44,13 +43,5 @@ Install dependencies (if not already installed):
 
 bash
 Copy code
-pip install pandas numpy matplotlib seaborn scikit-learn
-Open and run flight_delay_analysis.ipynb in Jupyter Notebook or Jupyter Lab to explore the analysis step-by-step.
-Install dependencies (if not already installed):
-
-bash
-Copy code
-
-
 pip install pandas numpy matplotlib seaborn scikit-learn
 Open and run flight_delay_analysis.ipynb in Jupyter Notebook or Jupyter Lab to explore the analysis step-by-step.
