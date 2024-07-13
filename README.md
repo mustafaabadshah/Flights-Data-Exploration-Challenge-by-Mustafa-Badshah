@@ -1,7 +1,3 @@
-Certainly! Here's a basic template for your GitHub README file summarizing the steps and analysis you've conducted:
-
----
-
 # Flight Delay Analysis
 
 This project involves analyzing US domestic flight data from 2013 to understand departure and arrival delays.
@@ -59,6 +55,3 @@ This project involves analyzing US domestic flight data from 2013 to understand 
 
 3. Open and run `flight_delay_analysis.ipynb` in Jupyter Notebook or Jupyter Lab to explore the analysis step-by-step.
 
----
-
-Feel free to customize this template with more specific details about your dataset, analysis findings, and any additional insights you want to highlight.
